@@ -1,0 +1,26 @@
+_repo: Birch-Bark-Legends-of-Niagara_7783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Owahyah
+    gutenberg_agent_id: '2524'
+    url: http://www.gutenberg.org/2009/agents/2524
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Native America
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Iroquois Indians -- Folklore'
+- !lcsh 'Indians of North America -- Folklore'
+- GITenberg
+title: Birch Bark Legends of Niagara
+url: http://www.gutenberg.org/ebooks/7783
