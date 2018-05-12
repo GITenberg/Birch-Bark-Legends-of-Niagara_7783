@@ -1,11 +1,16 @@
 _repo: Birch-Bark-Legends-of-Niagara_7783
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Owahyah
     gutenberg_agent_id: '2524'
     url: http://www.gutenberg.org/2009/agents/2524
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7783#Birch-Bark-Legends-of-Niagara
 gutenberg_bookshelf:
 - Folklore
 - Native America
